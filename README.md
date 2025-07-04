@@ -85,9 +85,14 @@ As informações e *insights* gerados por este relatório são cruciais para a t
 
 ---
 
+
+
 ### **Como Acessar o Relatório**
 
 * **Baixe o arquivo-fonte (.pbix):**
     Para uma análise detalhada da modelagem de dados, transformações (Power Query) e o código DAX, você pode baixar o arquivo-fonte do relatório.
 
 ---
+
+
+>Desenvolvido por Ingrid Pinheiro
